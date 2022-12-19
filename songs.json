@@ -2,11 +2,13 @@
     {
         "name": "Prescription Medicine",
         "cover": "img/prescription_medicine.jpeg",
-        "spotify": "https://open.spotify.com/track/3flbxiSGTTl212T2mKenKm?si=9774d182c7704979"
+        "spotify": "https://open.spotify.com/track/3flbxiSGTTl212T2mKenKm?si=9774d182c7704979",
+        "apple": "https://music.apple.com/us/album/prescription-medicine/1502338579?i=1502338582"
     },
     {
         "name": "Bella",
         "cover": "img/bella.jpeg",
-        "spotify": "https://open.spotify.com/track/5NWnLnnPXrH1g33tBM0tZu?si=d4cbb7344b5d4ec7"
+        "spotify": "https://open.spotify.com/track/5NWnLnnPXrH1g33tBM0tZu?si=d4cbb7344b5d4ec7",
+        "apple": "https://music.apple.com/us/album/bella/1505691730?i=1505691731"
     }
 ]

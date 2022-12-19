@@ -20,3 +20,27 @@
     text-align: center;
     padding-top: 50px;
 }
+
+.carousel {
+    background-color: lightgray;
+}
+
+.carousel-item {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.carousel-item img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+}
+
+.carousel a {
+    margin-bottom: 10px;
+}
+
+.carousel h3 {
+    margin-bottom: 10px;
+}
