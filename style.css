@@ -48,3 +48,9 @@
 .nav-item {
     padding-right: 10px;
 }
+
+.footer {
+    background-color: lightgray;
+    padding-top: 20px;
+    text-align: center;
+}
